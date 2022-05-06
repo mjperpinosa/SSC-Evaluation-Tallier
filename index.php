@@ -2,10 +2,10 @@
 <html>
 <head>
     <title>Tallier :D</title>
-    <link href="../css/style.css" rel="stylesheet" />
-    <script src="../js/jquery-1.9.1.min.js"></script>
-    <script src="../js/jquery-ui-1.10.2.min.js"></script>
-    <script src="../js/functionality.js"></script>
+    <link href="./css/style.css" rel="stylesheet" />
+    <script src="./js/jquery-1.9.1.min.js"></script>
+    <script src="./js/jquery-ui-1.10.2.min.js"></script>
+    <script src="./js/functionality.js"></script>
 </head>
 <body>
 
